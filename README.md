@@ -10,4 +10,4 @@
 ---
 
 ## <a name="section-a">Unit 7</a>
-<a name="Titanic_Exercises.ipynb">Titanic_Exercises.ipynb</a>
+[Titanic_Exercises.ipynb](k2_assignments/Titanic_Exercises.ipynb)
