@@ -10,4 +10,4 @@
 ---
 
 ## <a name="section-a">Unit 7</a>
-[Titanic_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/Titanic_Exercises.ipynb)
+[Titanic_Exercises.ipynb](github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
