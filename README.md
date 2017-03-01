@@ -5,7 +5,7 @@
 # Table of Contents
 ### Includes the following assignments for the K2 Data Science Bootcamp:
 
-[1. Unit 7 - Statistical Inference](#section-a)
+[1. Unit 7 - Statistical Inference](#section-a) <br>
 [2. Unit 8 - Exploratory Data Analysis](#section-a)
 
 ---
