@@ -15,3 +15,4 @@
 
 ## <a name="section-a">Unit 8</a>
 [EDA_Movies_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)
+[EDA_Olympics_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)
