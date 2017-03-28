@@ -1,8 +1,8 @@
 ![K2 logo](k2_logo.png)
 
-# [K2](http://www.k2datascience.com/) Core Curriculum
+# K2 Core Curriculum
 
-This repository contains Kevin Chow's assignments for the K2 Data Science Bootcamp.
+This repository contains Kevin Chow's assignments for the [K2 Data Science Bootcamp](http://www.k2datascience.com/).
 
 # Table of Contents:
 
