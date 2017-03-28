@@ -2,8 +2,9 @@
 
 # [K2](http://www.k2datascience.com/) Core Curriculum
 
-# Table of Contents
-### Includes the following assignments for the K2 Data Science Bootcamp:
+### This repository contains Kevin Chow's assignments for the K2 Data Science Bootcamp.
+
+# Table of Contents:
 
 [1. Unit 7 - Statistical Inference](#section-a) <br>
 [2. Unit 8 - Exploratory Data Analysis](#section-a)
