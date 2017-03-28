@@ -6,10 +6,22 @@ This repository contains Kevin Chow's assignments for the [K2 Data Science Bootc
 
 # Table of Contents:
 
-[1. Unit 7 - Statistical Inference](#section-a) <br>
-[2. Unit 8 - Exploratory Data Analysis](#section-a)
+Unit 1 - Getting Started
+[Unit 2 - Computer Science and Python](#section-a) <br>
+[Unit 3 - Data Collection and Analysis](#section-a) <br>
+Unit 4 - Mathematics <br>
+Unit 5 - Introduction to Data Science <br>
+[Unit 6 - Getting and Cleaning Data](#section-a) <br>
+[Unit 7 - Statistical Inference](#section-a) <br>
+[Unit 8 - Exploratory Data Analysis](#section-a)
 
 ---
+
+## <a name="section-a">Unit 2</a>
+
+## <a name="section-a">Unit 3</a>
+
+## <a name="section-a">Unit 6</a>
 
 ## <a name="section-a">Unit 7</a>
 [Titanic_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
