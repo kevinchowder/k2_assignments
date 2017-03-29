@@ -31,6 +31,8 @@ Unit 5 - Introduction to Data Science <br>
 [Thanksgiving Dinner](https://github.com/kevinchowder/k2_assignments/blob/master/Thanksgiving%20Dinner.ipynb)<br>
 
 ## <a name="section-c">Unit 6</a>
+[MTA Turnstile](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_MTA_Exercises.ipynb)<br>
+[Yelp](https://github.com/kevinchowder/k2_assignments/blob/master/Data_Cleaning_Exercises.ipynb)<br>
 
 ## <a name="section-d">Unit 7</a>
 [Titanic_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
