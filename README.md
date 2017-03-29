@@ -18,7 +18,7 @@ Unit 5 - Introduction to Data Science <br>
 ---
 
 ## <a name="section-a">Unit 2</a>
-[Pig Latin Translator](https://github.com/kevinchowder/k2_assignments/blob/master/Pig%20Latin%20Translator.ipynb)<br>
+[Pig Latin Translator](https://github.com/kevinchowder/k2_assignments/blob/master/PigLatinTranslator.py)<br>
 [Reverse Polish Notation Calculator](https://github.com/kevinchowder/k2_assignments/blob/master/Reverse%20Polish%20Notation%20Calculator.ipynb)<br>
 [Blackjack](https://github.com/kevinchowder/k2_assignments/blob/master/Blackjack.ipynb)<br>
 [Gun Deaths](https://github.com/kevinchowder/k2_assignments/blob/master/Gun%20Deaths.ipynb)<br>
