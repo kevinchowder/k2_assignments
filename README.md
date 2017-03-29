@@ -18,15 +18,20 @@ Unit 5 - Introduction to Data Science <br>
 ---
 
 ## <a name="section-a">Unit 2</a>
+[Pig Latin Translator](https://github.com/kevinchowder/k2_assignments/blob/master/Pig Latin Translator.ipynb) <br>
+[Reverse Polish Notation Calculator](https://github.com/kevinchowder/k2_assignments/blob/master/Reverse Polish Notation Calculator.ipynb)<br>
+[Blackjack](https://github.com/kevinchowder/k2_assignments/blob/master/Blackjack.ipynb)<br>
+[Gun Deaths](https://github.com/kevinchowder/k2_assignments/blob/master/Gun Deaths.ipynb)<br>
+
 
 ## <a name="section-b">Unit 3</a>
 
 ## <a name="section-c">Unit 6</a>
 
 ## <a name="section-d">Unit 7</a>
-[Titanic_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
+[Titanic_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
 
 ## <a name="section-e">Unit 8</a>
-[EDA_Movies_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)<br>
-[EDA_Olympics_Exercises.ipynb](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)<br>
+[EDA_Movies_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)<br>
+[EDA_Olympics_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)<br>
 [Subway Canvassing Project](https://github.com/kevinchowder/NYCSubwayCanvas)
