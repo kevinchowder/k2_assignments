@@ -13,15 +13,15 @@ Unit 4 - Mathematics <br>
 Unit 5 - Introduction to Data Science <br>
 [Unit 6 - Getting and Cleaning Data](#section-c) <br>
 [Unit 7 - Statistical Inference](#section-d) <br>
-[Unit 8 - Exploratory Data Analysis](#section-e)
+[Unit 8 - Exploratory Data Analysis](#section-e)<br>
 
 ---
 
 ## <a name="section-a">Unit 2</a>
-[Pig Latin Translator](Pig Latin Translator.ipynb) <br>
+[Pig Latin Translator](https://github.com/kevinchowder/k2_assignments/blob/master/Pig%20Latin%20Translator.ipynb)<br>
 [Reverse Polish Notation Calculator](Reverse Polish Notation Calculator.ipynb)<br>
-[Blackjack](Blackjack.ipynb)<br>
-[Gun Deaths](Gun Deaths.ipynb)<br>
+[Blackjack](https://github.com/kevinchowder/k2_assignments/blob/master/Blackjack.ipynb)<br>
+[Gun Deaths](https://github.com/kevinchowder/k2_assignments/blob/master/Gun%20Deaths.ipynb)<br>
 
 
 ## <a name="section-b">Unit 3</a>
