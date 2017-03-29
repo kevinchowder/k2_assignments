@@ -35,9 +35,9 @@ Unit 5 - Introduction to Data Science <br>
 [Yelp](https://github.com/kevinchowder/k2_assignments/blob/master/Data_Cleaning_Exercises.ipynb)<br>
 
 ## <a name="section-d">Unit 7</a>
-[Titanic_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
+[Titanic Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
 
 ## <a name="section-e">Unit 8</a>
-[EDA_Movies_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)<br>
-[EDA_Olympics_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)<br>
+[Movies_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)<br>
+[Olympics_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)<br>
 [Subway Canvassing Project](https://github.com/kevinchowder/NYCSubwayCanvas)
