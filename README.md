@@ -25,6 +25,10 @@ Unit 5 - Introduction to Data Science <br>
 
 
 ## <a name="section-b">Unit 3</a>
+[GitHub Jobs API](https://github.com/kevinchowder/k2_assignments/blob/master/GitHubJobs.ipynb)<br>
+[National Weather Service](https://github.com/kevinchowder/k2_assignments/blob/master/Weather%20Scraper.ipynb)<br>
+[College Majors](https://github.com/kevinchowder/k2_assignments/blob/master/Recent%20Grads.ipynb)<br>
+[Thanksgiving Dinner](https://github.com/kevinchowder/k2_assignments/blob/master/Thanksgiving%20Dinner.ipynb)<br>
 
 ## <a name="section-c">Unit 6</a>
 
