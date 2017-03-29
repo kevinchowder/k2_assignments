@@ -38,6 +38,6 @@ Unit 5 - Introduction to Data Science <br>
 [Titanic Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/Titanic_Exercises.ipynb)
 
 ## <a name="section-e">Unit 8</a>
-[Movies_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)<br>
-[Olympics_Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)<br>
+[Movies Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Movies_Exercises.ipynb)<br>
+[Olympics Exercises](https://github.com/kevinchowder/k2_assignments/blob/master/EDA_Olympics_Exercises.ipynb)<br>
 [Subway Canvassing Project](https://github.com/kevinchowder/NYCSubwayCanvas)
